@@ -33,7 +33,6 @@ int main() {
     
 
     int ans = largest(nums);
-    cout<<"Bhai answer: "<< ans;
 
     return 0;
 }
