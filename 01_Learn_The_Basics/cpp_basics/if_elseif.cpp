@@ -2,8 +2,7 @@
 using namespace std;
 
 
-void studentGrade(int marks) {
-    int x = marks;
+void studentGrade(int x) {
     if(x >=90){
         cout<<"Grade A";
     }
