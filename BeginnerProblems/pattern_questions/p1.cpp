@@ -11,8 +11,8 @@ void pattern1(int n) {
     }
 
 int main() {
-    int n;
-    cin >> n;
-    pattern1(n);
+    int i;
+    cin >> i;
+    pattern1(i);
     return 0;
 }
